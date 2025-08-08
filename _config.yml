@@ -1,6 +1,4 @@
-plugins:
-  - jekyll-remote-theme
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-cayman
 title: Swati Gajjar
 tagline: QA Engineer | Automation Tester | SDET-in-Progress
 description: My personal portfolio, blog, and projects.
