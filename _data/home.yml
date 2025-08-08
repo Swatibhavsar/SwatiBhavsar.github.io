@@ -1,9 +1,25 @@
-title: 👋 Hi, I'm Swati!
-subtitle: >
-  QA Engineer | Automation Tester | SDET-in-Progress  
-  Passionate about AI & Blockchain Testing.
+title: "👋 Hi, I'm Swati!"
+subtitle: "QA Engineer | Automation Tester | SDET-in-Progress"
 
 content:
-  - I’m currently working on automation frameworks.
-  - Learning about AI test agents and blockchain dApps.
-  - Building this site to share my journey.
+  - section: About Me
+    entries:
+      - text: >
+          I'm a QA Engineer with automation experience, currently learning AI and Blockchain testing. 
+          This is my portfolio and blog where I share projects and learnings.
+
+  - section: Projects
+    entries:
+      - text: >
+          ✅ **Cypress Test Framework** - Built E2E test automation for a React app.
+      - text: >
+          ✅ **API Testing with Postman** - Wrote contract and functional tests for multiple microservices.
+      - text: >
+          ✅ **AI Test Agent POC** - Experimented with GPT-powered test suggestion tools.
+
+  - section: Contact
+    entries:
+      - text: >
+          📫 [LinkedIn](https://www.linkedin.com/in/swati-gajjar-209b45141/)  
+          💻 [GitHub](https://github.com/swatisbhavsar)  
+          ✉️ swatibhavsar93@gmail.com
